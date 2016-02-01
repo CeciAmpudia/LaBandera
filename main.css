@@ -1,15 +1,17 @@
 div {
-	height: 100px;
-	
+	height: 90px;
+	width: 190px;
 	background-color: yellow;
-	
+	padding-top: 10px;
+	padding-left: 10px;
+	margin: 10px 0px;
 	
 }
 .rojo {
-	height: 100px;
-	
+	height: 90px;
+	width: 190px;
 	background-color: red;
-	
+	margin: 10px 0px;
 }
 body {
 	margin: 0px;
