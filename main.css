@@ -1,0 +1,17 @@
+div {
+	height: 100px;
+	
+	background-color: yellow;
+	
+	
+}
+.rojo {
+	height: 100px;
+	
+	background-color: red;
+	
+}
+body {
+	margin: 0px;
+	padding: 0px;
+}
